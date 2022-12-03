@@ -16,4 +16,4 @@
 
 ΘΕᐂ◁●︖︺乚Ó
 
-[真正的blank](about:blank)
+[about:blank](about:blank)
