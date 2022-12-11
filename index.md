@@ -20,4 +20,4 @@
 
 ## 文章存档
 
-[A-01](/archives)
+[A-01](/archives/a-01)
